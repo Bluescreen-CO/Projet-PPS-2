@@ -1,0 +1,6 @@
+Adresse web serveur ChirpStack : 10.3.159.3:8080
+Adresse web serveur ThingsBoard : 10.3.159.3:8081
+
+Utilisateur : equipe2@pps.edu
+
+Mot de passe : equipe2
